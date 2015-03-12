@@ -1,0 +1,9 @@
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\bin\Release\FroggPTLauncher.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\bin\Release\FroggPTLauncher.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\bin\Release\FroggPTLauncher.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\obj\x86\Release\FroggPTLauncher.FroggPTLauncher.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\obj\x86\Release\FroggPTLauncher.Resources.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\obj\x86\Release\FroggPTLauncher.vbproj.GenerateResource.Cache
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\obj\x86\Release\FroggPTLauncher.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\obj\x86\Release\FroggPTLauncher.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTLauncher\obj\x86\Release\FroggPTLauncher.pdb

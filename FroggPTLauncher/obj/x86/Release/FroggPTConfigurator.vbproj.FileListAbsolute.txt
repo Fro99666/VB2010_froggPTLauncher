@@ -1,0 +1,30 @@
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\bin\Release\FroggPTConfigurator.exe
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\bin\Release\FroggPTConfigurator.pdb
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\bin\Release\FroggPTConfigurator.xml
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.FroggPTConfigurator.resources
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.Resources.resources
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.vbproj.GenerateResource.Cache
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.exe
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.xml
+C:\Users\remy\AppData\Local\Temporary Projects\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.vbproj.GenerateResource.Cache
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\bin\Release\FroggPTConfigurator.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\bin\Release\FroggPTConfigurator.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\bin\Release\FroggPTConfigurator.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.FroggPTConfigurator.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.Resources.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator - Copie\FroggPTConfigurator\obj\x86\Release\FroggPTConfigurator.vbproj.GenerateResource.Cache
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\bin\Release\FroggPTLauncher.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\bin\Release\FroggPTLauncher.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\bin\Release\FroggPTLauncher.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.Resources.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.pdb
+C:\Users\remy\Documents\GitHub\VB2010_froggPTConfigurator\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.FroggPTLauncher.resources
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.exe
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.xml
+C:\Users\remy\Documents\GitHub\VB2010_froggPTLauncher\FroggPTConfigurator\obj\x86\Release\FroggPTLauncher.pdb
